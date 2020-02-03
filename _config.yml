@@ -1,11 +1,11 @@
 # Site settings
 author: Maurice Falls
-title: 
+title: What Not to Software
 header-img: img/home-bg.png
 email: falls8019oct@gmail.com
 copyright_name: Maurice Falls
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Software Development Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Mf1urice
